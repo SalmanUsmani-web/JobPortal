@@ -1,0 +1,24 @@
+# NetBeans build files
+/build/
+/dist/
+
+# Private NetBeans settings
+/nbproject/private/
+
+# Database credentials
+src/java/com/deepak/connection/db.properties
+
+# Local machine paths
+src/java/com/deepak/backend/PathDetails.java
+
+# Uploaded user files
+/web/resumes/*
+/web/resumes-builder/*
+/web/profile_pics/*
+
+# Default profile image ko GitHub par rakhna hai
+!/web/profile_pics/profilepic.png
+
+# OS and editor files
+.DS_Store
+Thumbs.db
